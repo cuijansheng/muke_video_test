@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d3e1088-6d83-4d9d-a22e-9899077cc6a4" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/video/app/dashboard/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/dashboard/views/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/dashboard/views/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/dashboard/views/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/libs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/libs/base_render.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/model/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/model/video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/utils/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/app/utils/permission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/static/dashboard/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/static/dashboard/css/external_video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/static/dashboard/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/static/dashboard/css/video_sub.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/static/dashboard/js/external_video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/static/dashboard/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/auth/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/video/external_video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/templates/dashboard/video/video_sub.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/app/dashboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/video/app/dashboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/video/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/video/config/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BKfzLAQkchGKjzhGNbM399jqbR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/cuijiansheng/Desktop/muke_video_test",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.django.DjangoModulesConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/video/templates/dashboard" />
+      <recent name="$PROJECT_DIR$/video" />
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="muke_video_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/video" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="0d3e1088-6d83-4d9d-a22e-9899077cc6a4" name="变更" comment="" />
+      <created>1656659958198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656659958198</updated>
+      <workItem from="1656659959642" duration="2356000" />
+      <workItem from="1656900516701" duration="18275000" />
+      <workItem from="1656985051232" duration="19385000" />
+      <workItem from="1657157650542" duration="8443000" />
+      <workItem from="1657203718671" duration="4859000" />
+      <workItem from="1657271596367" duration="128000" />
+      <workItem from="1657344861898" duration="4126000" />
+      <workItem from="1657375355983" duration="953000" />
+      <workItem from="1657588730216" duration="31240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/muke_video_test$manage.coverage" NAME="manage 覆盖结果" MODIFIED="1657791707258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/video" />
+  </component>
+</project>

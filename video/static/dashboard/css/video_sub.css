@@ -1,0 +1,12 @@
+input, select {
+    width: 600px !important;
+    display: inline-block !important;
+}
+.add-url {
+    width: 750px;
+    padding: 10px;
+    border: 1px solid #cccccc;
+}
+#add-url-btn, #add-star-btn {
+    width: 60px !important;
+}
